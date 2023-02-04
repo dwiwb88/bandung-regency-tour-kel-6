@@ -1,0 +1,41 @@
+:root {
+    /* fonts */
+    --nunito-bold-30: Nunito;
+    --inrias-bold-40: "Inria Sans";
+    --font-inherit: inherit;
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --nunito-bold-12-size: 12px;
+    --nunito-bold-20-size: 20px;
+    --nunito-bold-24-size: 24px;
+    --nunito-bold-30-size: 30px;
+    --inrias-bold-40-size: 40px;
+  
+    /* Colors */
+    --primary-white: #fff;
+    --d-blue-100: #0064d9;
+    --d-blue-50: rgba(0, 100, 217, 0.5);
+    --d-blue-80: rgba(0, 100, 217, 0.8);
+    --primary-black: #000;
+    --ffc700-yellow-100: #ffc700;
+    --b1f54-darkblue-100: #0b1f54;
+  
+    /* Gaps */
+    --gap-sm: 23px;
+    --gap-md: 28px;
+    --gap-lg: 438px;
+  
+    /* Paddings */
+    --padding-xs: 10px;
+    --padding-sm: 12px;
+    --padding-md: 20px;
+    --padding-lg: 27px;
+    --padding-xl: 50px;
+  
+    /* border radiuses */
+    --br-xs: 3px;
+    --br-sm: 5px;
+    --br-md: 10px;
+    --br-lg: 20px;
+  }

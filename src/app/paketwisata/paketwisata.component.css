@@ -1,0 +1,598 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .kategori-child4,
+  .kategori-child5,
+  .kategori-child6 {
+    position: absolute;
+    top: -1.5px;
+    left: 326.5px;
+    border-right: 3px solid var(--b1f54-darkblue-100);
+    box-sizing: border-box;
+    width: 3px;
+    height: 472px;
+  }
+  .kategori-child5,
+  .kategori-child6 {
+    left: 709.5px;
+  }
+  .kategori-child6 {
+    top: 620.5px;
+    left: 523.5px;
+  }
+  .gbr-paket-wisata-14 {
+    position: absolute;
+    top: 0;
+    left: 19px;
+    width: 235px;
+    height: 202px;
+    object-fit: cover;
+  }
+  .paket-wisata-13,
+  .rp-10000003 {
+    position: absolute;
+    display: inline-block;
+    text-align: left;
+  }
+  .paket-wisata-13 {
+    top: 214px;
+    left: 0;
+    font-size: var(--nunito-bold-24-size);
+    width: 272px;
+    height: 38px;
+  }
+  .rp-10000003 {
+    top: 244px;
+    left: 33px;
+    font-size: var(--nunito-bold-30-size);
+    width: 201px;
+  }
+  .tangkuban-perahu-orchid-container1 {
+    position: absolute;
+    top: 295px;
+    left: 14px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+  }
+  .sudah-termasuk3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .mobil-driver-dan3 {
+    margin: 0;
+  }
+  .sudah-termasuk-mobil-container3 {
+    position: absolute;
+    top: 386px;
+    left: 15px;
+  }
+  .daftar-sekarang3 {
+    position: relative;
+  }
+  .cpndaftar-sekarang3 {
+    position: absolute;
+    top: 455px;
+    left: 38px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .paket-wisata-12 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 272px;
+    height: 502px;
+    cursor: pointer;
+  }
+  .gbr-paket-wisata-25 {
+    position: absolute;
+    top: 0;
+    left: 30px;
+    width: 235px;
+    height: 202px;
+    object-fit: cover;
+  }
+  .cg-cinulang-cicalengka-container1 {
+    position: absolute;
+    top: 290px;
+    left: 0;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+  }
+  .sudah-termasuk-mobil-container4 {
+    position: absolute;
+    top: 386px;
+    left: 25px;
+  }
+  .paket-wisata-23,
+  .rp-10000004 {
+    position: absolute;
+    display: inline-block;
+    text-align: left;
+  }
+  .paket-wisata-23 {
+    top: 214px;
+    left: 4px;
+    font-size: var(--nunito-bold-24-size);
+    width: 278px;
+    height: 37px;
+  }
+  .rp-10000004 {
+    top: 244px;
+    left: 48px;
+    font-size: var(--nunito-bold-30-size);
+    width: 200px;
+  }
+  .cpndaftar-sekarang4 {
+    position: absolute;
+    top: 455px;
+    left: 44px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .gbr-paket-wisata-35,
+  .paket-wisata-22 {
+    position: absolute;
+    top: 0;
+    left: 382px;
+    width: 282px;
+    height: 502px;
+  }
+  .gbr-paket-wisata-35 {
+    left: 34px;
+    width: 235px;
+    height: 202px;
+    object-fit: cover;
+  }
+  .glamping-lakeside-rancabali-container1 {
+    position: absolute;
+    top: 295px;
+    left: 0;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+  }
+  .paket-wisata-33,
+  .sudah-termasuk-mobil-container5 {
+    position: absolute;
+    top: 385px;
+    left: 42px;
+  }
+  .paket-wisata-33 {
+    top: 214px;
+    left: 17px;
+    font-size: var(--nunito-bold-24-size);
+    display: inline-block;
+    text-align: left;
+    width: 280px;
+    height: 37px;
+  }
+  .cpndaftar-sekarang5 {
+    position: absolute;
+    top: 455px;
+    left: 62px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .rp-10000005 {
+    position: absolute;
+    top: 244px;
+    left: 52px;
+    font-size: var(--nunito-bold-30-size);
+    display: inline-block;
+    text-align: left;
+    width: 200px;
+  }
+  .gbr-paket-wisata-26,
+  .paket-wisata-32 {
+    position: absolute;
+    top: 0;
+    left: 750px;
+    width: 304px;
+    height: 502px;
+  }
+  .gbr-paket-wisata-26 {
+    left: 21px;
+    width: 235px;
+    height: 202px;
+    object-fit: cover;
+  }
+  .paket-wisata-41,
+  .rp-10000006 {
+    position: absolute;
+    display: inline-block;
+    text-align: left;
+  }
+  .paket-wisata-41 {
+    top: 224px;
+    left: 0;
+    font-size: var(--nunito-bold-24-size);
+    width: 279px;
+    height: 37px;
+  }
+  .rp-10000006 {
+    top: 264px;
+    left: 45px;
+    font-size: var(--nunito-bold-30-size);
+    width: 197px;
+  }
+  .floating-market {
+    margin-bottom: 0;
+  }
+  .floating-market-lembang-park {
+    margin: 0;
+    padding-left: var(--padding-lg);
+  }
+  .floating-market-lembang-container {
+    position: absolute;
+    top: 305px;
+    left: 27px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+  }
+  .sudah-termasuk-mobil-container6 {
+    position: absolute;
+    top: 405px;
+    left: 29px;
+  }
+  .cpndaftar-sekarang6 {
+    position: absolute;
+    top: 475px;
+    left: 49px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .paket-wisata-4 {
+    position: absolute;
+    top: 621px;
+    left: 200px;
+    width: 279px;
+    height: 522px;
+  }
+  .gbr-paket-wisata-36 {
+    position: absolute;
+    top: 0;
+    left: 18px;
+    width: 235px;
+    height: 202px;
+    object-fit: cover;
+  }
+  .paket-wisata-51,
+  .rp-10000007 {
+    position: absolute;
+    display: inline-block;
+    text-align: left;
+  }
+  .paket-wisata-51 {
+    top: 224px;
+    left: 0;
+    font-size: var(--nunito-bold-24-size);
+    width: 279px;
+    height: 34px;
+  }
+  .rp-10000007 {
+    top: 264px;
+    left: 37px;
+    font-size: var(--nunito-bold-30-size);
+    width: 197px;
+  }
+  .himo-highland-situ-container {
+    position: absolute;
+    top: 305px;
+    left: 33px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+  }
+  .sudah-termasuk-mobil-container7 {
+    position: absolute;
+    top: 405px;
+    left: 8px;
+  }
+  .cpndaftar-sekarang7 {
+    position: absolute;
+    top: 475px;
+    left: 28px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .kategori3,
+  .paket-wisata-5 {
+    position: absolute;
+    top: 621px;
+    left: 575px;
+    width: 279px;
+    height: 522px;
+  }
+  .kategori3 {
+    top: 575px;
+    left: 126px;
+    width: 1054px;
+    height: 1143px;
+    color: var(--primary-black);
+  }
+  .background-icon3,
+  .layer-background1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .background-icon3 {
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .layer-background1 {
+    background-color:NONE;
+  }
+  .cpnbackground1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 482px;
+  }
+  .logo-icon4,
+  .maps-icon2 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .maps-icon2 {
+    height: 44.55%;
+    width: 29.69%;
+    top: 23.52%;
+    right: 3.91%;
+    bottom: 31.93%;
+    left: 66.41%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .logo-icon4 {
+    height: 27.26%;
+    width: 13.67%;
+    top: 13.08%;
+    right: 77.5%;
+    bottom: 59.66%;
+    left: 8.83%;
+  }
+  .bandung-regency-tour6 {
+    position: absolute;
+    height: 28.82%;
+    width: 23.44%;
+    top: 47.35%;
+    left: 3.91%;
+    display: inline-block;
+  }
+  .alamat2,
+  .hubungi-kami8 {
+    position: absolute;
+    top: 13.08%;
+    left: 42.27%;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .alamat2 {
+    top: 22.59%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .taman-kopo-indah2 {
+    position: absolute;
+    height: 10.9%;
+    width: 29.69%;
+    top: 29.44%;
+    left: 35.16%;
+    display: inline-block;
+    text-align: left;
+  }
+  .whatsapp2 {
+    position: absolute;
+    top: 45.79%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b4 {
+    top: 52.65%;
+    left: 35.16%;
+  }
+  .b4,
+  .b5,
+  .telephone2 {
+    position: absolute;
+  }
+  .telephone2 {
+    top: 59.81%;
+    left: 35.55%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b5 {
+    top: 66.67%;
+    left: 35.16%;
+  }
+  .bck-cr2,
+  .cpnfooter2 {
+    position: absolute;
+    top: 1848px;
+    left: 0;
+    width: 1280px;
+    height: 642px;
+  }
+  .bck-cr2 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--d-blue-50);
+  }
+  .copyright-bandung-regency2 {
+    position: absolute;
+    top: 26.25%;
+    left: 43.91%;
+  }
+  .developed-with-kelompok2,
+  .vector-icon2 {
+    position: absolute;
+    top: 56.25%;
+    left: 46.41%;
+  }
+  .vector-icon2 {
+    height: 23.75%;
+    width: 1.48%;
+    top: 23.75%;
+    right: 56.72%;
+    bottom: 52.5%;
+    left: 41.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .cpncopyright2 {
+    position: absolute;
+    top: 2410px;
+    left: 0;
+    width: 1280px;
+    height: 80px;
+    font-size: var(--nunito-bold-12-size);
+  }
+  .paket-wisata-bandung-container1 {
+    position: absolute;
+    height: 6.87%;
+    width: 88.33%;
+    top: 0;
+    left: 5.95%;
+    font-size: var(--inrias-bold-40-size);
+    display: inline-block;
+    font-family: var(--inrias-bold-40);
+  }
+  .line-1-tp17 {
+    position: absolute;
+    height: 1.92%;
+    width: 100.66%;
+    top: 110%;
+    right: -0.33%;
+    bottom: 28.53%;
+    left: -0.33%;
+    border-top: 3px solid var(--ffc700-yellow-100);
+    box-sizing: border-box;
+  }
+  .home5 {
+    position: absolute;
+    height: 2.36%;
+    width: 14.76%;
+    top: 115%;
+    left: 23.35%;
+    display: inline-block;
+    cursor: pointer;
+  }
+  .paket-wisata7 {
+    color: var(--ffc700-yellow-100);
+  }
+  .judul4,
+  .paket-wisata6 {
+    position: absolute;
+    top: 115%;
+    left: 182px;
+  }
+  .judul4 {
+    height: 18.75%;
+    width: 35.47%;
+    top: 15.75%;
+    right: 32.27%;
+    bottom: 65.5%;
+    left: 32.27%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .paket-wisata4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 832px;
+    overflow-y: auto;
+  }
+  .logo-icon5 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+  }
+  .home6,
+  .paket-wisata8 {
+    position: relative;
+    cursor: pointer;
+  }
+  .paket-wisata8 {
+    color: var(--primary-white);
+  }
+  .cpntop-bar2,
+  .top-bar2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .top-bar2 {
+    width: 662px;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    gap: var(--gap-md);
+  }
+  .cpntop-bar2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--d-blue-80);
+    width: 1280px;
+    padding: var(--padding-sm) var(--padding-xl);
+    box-sizing: border-box;
+    justify-content: center;
+    gap: var(--gap-lg);
+    color: var(--primary-black);
+  }
+  .paket-wisata3 {
+    position: relative;
+    background-color: var(--primary-white);
+    width: 100%;
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--nunito-bold-20-size);
+    color: var(--primary-white);
+    font-family: var(--nunito-bold-30);
+  }
+  

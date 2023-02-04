@@ -1,0 +1,39 @@
+.cpntop-bar,
+.top-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.top-bar {
+  width: 662px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  gap: var(--gap-md);
+}
+.cpntop-bar {
+  position:-webkit-sticky;
+  overflow-y: auto;
+  top: 0;
+  left: 0;
+  background-color: var(--d-blue-80);
+  width: 1280px;
+  padding: var(--padding-sm) var(--padding-xl);
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-lg);
+  color: var(--primary-black);
+}
+.tentang {
+    cursor: pointer;
+    position: relative;
+  }
+
+  .logo-icon1 {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .elemen {
+    z-index: 1; 
+ }

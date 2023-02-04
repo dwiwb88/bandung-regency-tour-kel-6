@@ -1,0 +1,137 @@
+  
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="./navbar.component.css">
+  
+    
+
+    
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+    <title>navbar</title>
+  </head>
+  <body>
+    
+    <nav class="cpntop-bar">
+      <img class="logo-icon1" alt="" src="../../assets/images/logo bulat.png" />
+      
+      <div class="top-bar">
+         <!-- <b class="tentang" id="home" >Home</b
+        ><b class="tentang" id="paketWisataText">Paket Wisata</b
+        ><b class="tentang" id="infoWisataText1">Info Wisata</b
+        ><b class="tentang" id="tentangText">Tentang</b
+        ><b class="tentang" id="infoHotelText">Info Hotel</b
+        ><b class="tentang" id="galleryText">Gallery</b>  -->
+
+        
+
+       <ul class="  top-bar">
+
+        <li class="tentang">
+          <a  [routerLink]="['/','home']">Home</a>
+        </li>
+        <li class="tentang">
+          <a  [routerLink]="['/','paketwisata']">Paket Wisata</a>
+        </li>
+        <li class="tentang">
+          <a  [routerLink]="['/','infowisata']">Info Wisata</a>
+        </li>
+        
+        <li class="tentang">
+          <a  [routerLink]="['/','tentang']">tentang</a>
+        </li>
+
+        <li class="tentang">
+          <a  [routerLink]="['/','infohotel']">Info Hotel</a>
+        </li>
+
+        <li class="tentang">
+          <a  [routerLink]="['/','galeri']">Gallery</a>
+        </li>
+      </ul>
+
+      </div> 
+      </nav>
+    
+
+  </body>
+
+
+  <script>
+    var mapsImage = document.getElementById("mapsImage");
+    if (mapsImage) {
+      mapsImage.addEventListener("click", function (e) {
+        // Please sync "m bandung regency tour" to the project
+      });
+    }
+    
+    var homeText = document.getElementById("homeText");
+    if (homeText) {
+      homeText.addEventListener("click", function (e) {
+        window.location.href = "/";
+      });
+    }
+    
+    var homeText1 = document.getElementById("homeText1");
+    if (homeText1) {
+      homeText1.addEventListener("click", function (e) {
+        window.location.href = "/";
+      });
+    }
+    
+    var paketWisataText = document.getElementById("paketWisataText");
+    if (paketWisataText) {
+      paketWisataText.addEventListener("click", function (e) {
+        window.location.href = "./paket-wisata.html";
+      });
+    }
+    
+    var infoWisataText = document.getElementById("infoWisataText");
+    if (infoWisataText) {
+      infoWisataText.addEventListener("click", function (e) {
+        window.location.href = "./info-wisata.html";
+      });
+    }
+    
+    var tentangText = document.getElementById("tentangText");
+    if (tentangText) {
+      tentangText.addEventListener("click", function (e) {
+        window.location.href = "./tentang.html";
+      });
+    }
+    
+    var infoHotelText = document.getElementById("infoHotelText");
+    if (infoHotelText) {
+      infoHotelText.addEventListener("click", function (e) {
+        window.location.href = "./info-hotel.html";
+      });
+    }
+    
+    var galleryText1 = document.getElementById("galleryText1");
+    if (galleryText1) {
+      galleryText1.addEventListener("click", function (e) {
+        window.location.href = "./gallery.html";
+      });
+    }
+    </script>
+  </html>
+  
+ 
+
+  
+
