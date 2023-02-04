@@ -23,8 +23,12 @@
   <title>Home</title>
 </head>
 <body>
+  
+  
   <div class="home">
+    
       <div class="home1">
+        <!-- <app-navbar></app-navbar> -->
         <div class="tampilan-1">
           <div class="background">
             <img
@@ -134,12 +138,13 @@
             <div class="bck-wa-paket-wisata">
               <img class="wa-t3-icon" alt="" src=".././assets/images/h1t3.png" />
             </div>
-            <div class="hubungi-kami" id="hubungiKamiContainer1">
+            <div class="hubungi-kami" >
               <div class="hubungi-kami1">
-                <img class="whatsapp-icon" alt="" src=".././assets/images/whatsapp.png"/><b
-                  class="nikmati-liburan-bersama-container"
-                  >Hubungi Kami</b
-                >
+                <img class="whatsapp-icon" alt="" src=".././assets/images/whatsapp.png"/>
+                <a class="nikmati-liburan-bersama-container" href="https://api.whatsapp.com/send?phone=+6283863377932&text=
+              Halo%20Bandung%20Regency%20Tour,%20saya%20mau%20booking%20layanan%20
+              Paket%20Wisata,%20bisa%20minta%20informasinya%20lebih%20lanjut?" 
+              name="hubungikami">Hubungi kami</a>
               </div>
             </div>
             <b class="silahkan-hubungi-kami"
@@ -170,7 +175,7 @@
                 ><p class="bandung-regency-tour">Sudah Termasuk</p>
                 <p class="kendaraan-yang-kami">(mobil, Driver, dan BBM)</p></b
               >
-              <div class="cpndaftar-sekarang" id="cpnDaftarSekarangContainer">
+              <div class="cpndaftar-sekarang"  [routerLink]="['/','daftarbooking']">
                 <b class="nikmati-liburan-bersama-container">Daftar sekarang</b>
               </div>
             </div>
@@ -190,7 +195,7 @@
                 <p class="kendaraan-yang-kami">(mobil, Driver, dan BBM)</p></b
               ><b class="paket-wisata-21">Paket Wisata 2 (2D 1N)</b
               ><b class="rp-10000001">Rp. 1.000.000</b>
-              <div class="cpndaftar-sekarang1" id="cpnDaftarSekarangContainer1">
+              <div class="cpndaftar-sekarang1"  [routerLink]="['/','daftarbooking']">
                 <b class="nikmati-liburan-bersama-container">Daftar sekarang</b>
               </div>
             </div>
@@ -210,7 +215,7 @@
                 <p class="kendaraan-yang-kami">(mobil, Driver, dan BBM)</p></b
               ><b class="paket-wisata-31">Paket Wisata 3 (2D 1N)</b
               ><b class="rp-10000002">Rp. 1.000.000</b>
-              <div class="cpndaftar-sekarang2" id="cpnDaftarSekarangContainer2">
+              <div class="cpndaftar-sekarang2"  [routerLink]="['/','daftarbooking']">
                 <b class="nikmati-liburan-bersama-container">Daftar sekarang</b>
               </div>
             </div>
@@ -226,14 +231,18 @@
         <div class="tampilan-4">
           <div class="cpnhubungi-kami1">
             <div class="bck-wa-paket-wisata">
-              <img class="wa-t3-icon" alt="" src=".././assets/images/h1t3.png" />
+              <img class="wa-t3-icon" alt=""src=".././assets/images/h1t3.png" />
             </div>
-            <div class="hubungi-kami" id="hubungiKamiContainer3">
-              <div class="hubungi-kami4" id="hubungiKamiContainer2">
-                <img class="whatsapp-icon" alt="" src=".././assets/images/whatsapp.png"/><b
-                  class="nikmati-liburan-bersama-container"
-                  >Hubungi Kami</b
-                >
+            <div class="hubungi-kami" >
+              <div class="hubungi-kami4" >
+                <img class="whatsapp-icon" alt="" src=".././assets/images/whatsapp.png"/>
+                <b class="nikmati-liburan-bersama-container"
+                  ></b>
+                 <a class="nikmati-liburan-bersama-container" href="https://api.whatsapp.com/send?phone=+6283863377932&text=
+              Halo%20Bandung%20Regency%20Tour,%20saya%20mau%20booking%20layanan%20
+              Paket%20Wisata,%20bisa%20minta%20informasinya%20lebih%20lanjut?" 
+              name="hubungikami">Hubungi kami</a>
+              <br><br>
               </div>
             </div>
             <b class="silahkan-hubungi-kami"
@@ -252,12 +261,12 @@
               ><img
                 class="gbr-paket-wisata-1"
                 alt=""
-                src=".././assets/images/Info wisata/download (4).jpg"
+                src="../../assets/images/Info wisata/1.jpg"
               /><b class="selain-menyaksikan-keindahan"
                 >Selain menyaksikan keindahan alam, kamu juga bisa foto-foto
                 cantik untuk stok foto.</b
               >
-              <div class="cpnrute" id="cpnRuteContainer">
+              <div class="cpnrute" >
                 <b class="nikmati-liburan-bersama-container">Rute</b>
               </div>
             </div>
@@ -265,13 +274,13 @@
               <img
                 class="gbr-paket-wisata-21"
                 alt=""
-                src=".././assets/images/Info wisata/images (2).jpg"
+                src="../../assets/images/Info wisata/2.jpg"
               /><b class="taman-langit">Taman Langit</b
               ><b class="taman-langit-pangalengan"
                 >Taman Langit Pangalengan merupakan tempat wisata yang ada
                 diketinggian 1.670 mtr di atas oermukaan laut</b
               >
-              <div class="cpnrute1" id="cpnRuteContainer1">
+              <div class="cpnrute1" >
                 <b class="nikmati-liburan-bersama-container">Rute</b>
               </div>
             </div>
@@ -279,13 +288,13 @@
               <img
                 class="gbr-paket-wisata-31"
                 alt=""
-                src=".././assets/images/Info wisata/images (3).jpg"
+                src="../../assets/images/Info wisata/3.jpg"
               /><b class="rancaupas1">Rancaupas</b
               ><b class="taman-langit-pangalengan"
                 >Pesona keindahan alamnya memang tak bisa dibantah lagi, apalagi
                 dengan udara yang masih sejuk</b
               >
-              <div class="cpnrute1" id="cpnRuteContainer2">
+              <div class="cpnrute1" >
                 <b class="nikmati-liburan-bersama-container">Rute</b>
               </div>
             </div>
@@ -307,7 +316,7 @@
           <img
             class="gbr-paket-wisata-12"
             alt=""
-            src=".././assets/images/Gallery/1.jpg"
+            src="../../assets/images/Gallery/1.jpg"
           /><img
             class="gbr-paket-wisata-5"
             alt=""
@@ -339,14 +348,18 @@
           />
         </div>
         <div class="cpnfooter">
-          <div class="layer-background1"></div>
+          <div class="bck-cr"></div>
           <img
             class="maps-icon"
             alt=""
             src=".././assets/images/peta.PNG"
             id="mapsImage"
-          /><img class="logo-icon4" alt="" ><b class="bandung-regency-tour6"
-            >Bandung Regency Tour adalah penyedia layanan info wisata dan paket
+          />
+          <img 
+            class="logo-icon" 
+            alt="" 
+            src="../../assets/images/logo bulat.png" >
+            <b class="bandung-regency-tour4">Bandung Regency Tour adalah penyedia layanan info wisata dan paket
             wisata di bandung. Kami mempunyai pengalaman dalam meyediakan
             layanan perjalanan paket wisata yang menyenangkan.</b
           ><b class="hubungi-kami6">Hubungi Kami</b
@@ -365,17 +378,7 @@
           ><img class="vector-icon" alt="" />
         </div>
       </div>
-      <!-- <div class="cpntop-bar">
-        <img class="logo-icon1" alt="" src="public/logo.svg" />
-        <div class="top-bar">
-          <b class="home2">Home</b
-          ><b class="tentang" id="paketWisataText">Paket Wisata</b
-          ><b class="tentang" id="infoWisataText1">Info Wisata</b
-          ><b class="tentang" id="tentangText">Tentang</b
-          ><b class="tentang" id="infoHotelText">Info Hotel</b
-          ><b class="tentang" id="galleryText">Gallery</b>
-        </div>
-      </div> -->
+      
     </div>
 </body>
 </html>

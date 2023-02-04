@@ -10,6 +10,8 @@ import { TentangComponent } from './tentang/tentang.component';
 import { InfohotelComponent } from './infohotel/infohotel.component';
 import { GaleriComponent } from './galeri/galeri.component';
 import { HomeComponent } from './home/home.component';
+import { DaftarbookingComponent } from './daftarbooking/daftarbooking.component';
+import { RekapbookingComponent } from './rekapbooking/rekapbooking.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { HomeComponent } from './home/home.component';
     TentangComponent,
     InfohotelComponent,
     GaleriComponent,
-    HomeComponent
+    HomeComponent,
+    DaftarbookingComponent,
+    RekapbookingComponent
   ],
   imports: [
     BrowserModule,

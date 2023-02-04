@@ -1,0 +1,371 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .background-icon8,
+  .layer-background6 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .background-icon8 {
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .layer-background6 {
+    background-color: var(--d-blue-80);
+  }
+  .cpnbackground6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 482px;
+  }
+  .logo-icon14,
+  .maps-icon7 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .maps-icon7 {
+    height: 44.55%;
+    width: 29.69%;
+    top: 23.52%;
+    right: 3.91%;
+    bottom: 31.93%;
+    left: 66.41%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .logo-icon14 {
+    height: 27.26%;
+    width: 13.67%;
+    top: 13.08%;
+    right: 77.5%;
+    bottom: 59.66%;
+    left: 8.83%;
+  }
+  .bandung-regency-tour13 {
+    position: absolute;
+    height: 28.82%;
+    width: 23.44%;
+    top: 47.35%;
+    left: 3.91%;
+    display: inline-block;
+  }
+  .alamat11,
+  .hubungi-kami13 {
+    position: absolute;
+    top: 13.08%;
+    left: 42.27%;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .alamat11 {
+    top: 22.59%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .taman-kopo-indah7 {
+    position: absolute;
+    height: 10.9%;
+    width: 29.69%;
+    top: 29.44%;
+    left: 35.16%;
+    display: inline-block;
+    text-align: left;
+  }
+  .whatsapp7 {
+    position: absolute;
+    top: 45.79%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b20,
+  .telephone7 {
+    position: absolute;
+    top: 52.65%;
+    left: 35.16%;
+  }
+  .telephone7 {
+    top: 59.81%;
+    left: 35.55%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b21 {
+    position: absolute;
+    top: 66.67%;
+    left: 35.16%;
+  }
+  .bck-cr7,
+  .cpnfooter7 {
+    position: absolute;
+    top: 1848px;
+    left: 0;
+    width: 1280px;
+    height: 642px;
+  }
+  .bck-cr7 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--d-blue-50);
+  }
+  .copyright-bandung-regency7 {
+    position: absolute;
+    top: 26.25%;
+    left: 43.91%;
+  }
+  .developed-with-kelompok7,
+  .vector-icon7 {
+    position: absolute;
+    top: 56.25%;
+    left: 46.41%;
+  }
+  .vector-icon7 {
+    height: 23.75%;
+    width: 1.48%;
+    top: 23.75%;
+    right: 56.72%;
+    bottom: 52.5%;
+    left: 41.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .cpncopyright7 {
+    position: absolute;
+    top: 2410px;
+    left: 0;
+    width: 1280px;
+    height: 80px;
+    font-size: var(--nunito-bold-12-size);
+  }
+  .bandung-regency-tour14 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .kendaraan-yang-kami1 {
+    margin: 0;
+  }
+  .bandung-regency-tour-container1 {
+    position: absolute;
+    top: 620px;
+    left: 50px;
+    display: inline-block;
+    color: var(--primary-black);
+    width: 1180px;
+  }
+  .tentang-bandung-regency-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--inrias-bold-40-size);
+    font-family: var(--inrias-bold-40);
+  }
+  .line-1-tp114 {
+    position: absolute;
+    top: 111.5px;
+    left: -1.5px;
+    border-top: 3px solid var(--ffc700-yellow-100);
+    box-sizing: border-box;
+    width: 415px;
+    height: 3px;
+  }
+  .home15 {
+    position: absolute;
+    top: 127px;
+    left: 115px;
+    cursor: pointer;
+  }
+  .tentang11 {
+    color: var(--ffc700-yellow-100);
+  }
+  .judul12,
+  .tentang10 {
+    position: absolute;
+    top: 127px;
+    left: 191px;
+  }
+  .judul12 {
+    top: 128px;
+    left: 434px;
+    width: 412px;
+    height: 160px;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .layanan-yang-tersedia,
+  .line-1-tp115 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .line-1-tp115 {
+    top: 63.5px;
+    left: -1.5px;
+    border-top: 3px solid var(--ffc700-yellow-100);
+    box-sizing: border-box;
+    width: 399px;
+    height: 3px;
+  }
+  .judul13 {
+    position: absolute;
+    top: 944px;
+    left: 442px;
+    width: 396px;
+    height: 65px;
+    font-size: var(--inrias-bold-40-size);
+    color: var(--b1f54-darkblue-100);
+    font-family: var(--inrias-bold-40);
+  }
+  .paket-wisata14 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-lg);
+    background-color: var(--d-blue-80);
+    width: 329px;
+    height: 398px;
+  }
+  .line-2-lp21 {
+    position: absolute;
+    top: 92.5px;
+    left: 66.5px;
+    border-top: 3px solid var(--ffc700-yellow-100);
+    box-sizing: border-box;
+    width: 195px;
+    height: 3px;
+  }
+  .paket-wisata-yang2 {
+    position: absolute;
+    top: 135px;
+    left: 20px;
+    display: inline-block;
+    width: 289px;
+  }
+  .paket-wisata15 {
+    position: absolute;
+    top: 48px;
+    left: 89px;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .paket-wisata13 {
+    position: absolute;
+    top: 1093px;
+    left: 113px;
+    width: 329px;
+    height: 398px;
+  }
+  .untuk-info-wisata {
+    position: absolute;
+    top: 135px;
+    left: 21px;
+    display: inline-block;
+    width: 289px;
+  }
+  .info-wisata13 {
+    position: absolute;
+    top: 48px;
+    left: 100px;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .line-3-lp21 {
+    position: absolute;
+    top: 92.5px;
+    left: 67.5px;
+    border-top: 3px solid var(--ffc700-yellow-100);
+    box-sizing: border-box;
+    width: 195px;
+    height: 3px;
+  }
+  .info-wisata11 {
+    position: absolute;
+    top: 1093px;
+    left: 485px;
+    width: 329px;
+    height: 398px;
+  }
+  .info-hotel12 {
+    position: absolute;
+    top: 48px;
+    left: 110px;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .info-hotel10 {
+    position: absolute;
+    top: 1093px;
+    left: 857px;
+    width: 329px;
+    height: 398px;
+    font-family: var(--font-inter);
+  }
+  .tentang8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 832px;
+    overflow-y: auto;
+  }
+  .logo-icon15 {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+  }
+  .home16,
+  .logo-icon15 {
+    position: relative;
+  }
+  .paket-wisata16,
+  .tentang12 {
+    position: relative;
+    cursor: pointer;
+  }
+  .tentang12 {
+    color: var(--primary-white);
+  }
+  .cpntop-bar7,
+  .top-bar7 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .top-bar7 {
+    width: 662px;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    gap: var(--gap-md);
+  }
+  .cpntop-bar7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--d-blue-80);
+    width: 1280px;
+    padding: var(--padding-sm) var(--padding-xl);
+    box-sizing: border-box;
+    justify-content: center;
+    gap: var(--gap-lg);
+    color: var(--primary-black);
+  }
+  .tentang7 {
+    position: relative;
+    background-color: var(--primary-white);
+    width: 100%;
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--nunito-bold-20-size);
+    color: var(--primary-white);
+    font-family: var(--nunito-bold-30);
+  }
+  

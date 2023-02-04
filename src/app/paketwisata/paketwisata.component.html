@@ -28,7 +28,7 @@
           <div class="kategori-child4"></div>
           <div class="kategori-child5"></div>
           <div class="kategori-child6"></div>
-          <div class="paket-wisata-12" id="paketWisata11">
+          <div class="paket-wisata-12" >
             <img
               class="gbr-paket-wisata-14"
               alt=""
@@ -45,8 +45,9 @@
               ><p class="sudah-termasuk3">Sudah Termasuk</p>
               <p class="mobil-driver-dan3">(mobil, Driver, dan BBM)</p></b
             >
-            <div class="cpndaftar-sekarang3" id="cpnDaftarSekarangContainer">
-              <b class="daftar-sekarang3">Daftar sekarang</b>
+            <div class="cpndaftar-sekarang3"  [routerLink]="['/','daftarbooking']">
+
+              <a class="daftar-sekarang3">Daftar sekarang</a>
             </div>
           </div>
           <div class="paket-wisata-22">
@@ -65,7 +66,7 @@
               <p class="mobil-driver-dan3">(mobil, Driver, dan BBM)</p></b
             ><b class="paket-wisata-23">Paket Wisata 2 (2D 1N)</b
             ><b class="rp-10000004">Rp. 1.000.000</b>
-            <div class="cpndaftar-sekarang4" id="cpnDaftarSekarangContainer1">
+            <div class="cpndaftar-sekarang4" [routerLink]="['/','daftarbooking']">
               <b class="daftar-sekarang3">Daftar sekarang</b>
             </div>
           </div>
@@ -84,7 +85,7 @@
               ><p class="sudah-termasuk3">Sudah Termasuk</p>
               <p class="mobil-driver-dan3">(mobil, Driver, dan BBM)</p></b
             ><b class="paket-wisata-33">Paket Wisata 3 (2D 1N)</b>
-            <div class="cpndaftar-sekarang5" id="cpnDaftarSekarangContainer2">
+            <div class="cpndaftar-sekarang5"  [routerLink]="['/','daftarbooking']">
               <b class="daftar-sekarang3">Daftar sekarang</b>
             </div>
             <b class="rp-10000005">Rp. 1.000.000</b>
@@ -106,7 +107,7 @@
               ><p class="sudah-termasuk3">Sudah Termasuk</p>
               <p class="mobil-driver-dan3">(mobil, Driver, dan BBM)</p></b
             >
-            <div class="cpndaftar-sekarang6" id="cpnDaftarSekarangContainer3">
+            <div class="cpndaftar-sekarang6"  [routerLink]="['/','daftarbooking']">
               <b class="daftar-sekarang3">Daftar sekarang</b>
             </div>
           </div>
@@ -127,7 +128,7 @@
               ><p class="sudah-termasuk3">Sudah Termasuk</p>
               <p class="mobil-driver-dan3">(mobil, Driver, dan BBM)</p></b
             >
-            <div class="cpndaftar-sekarang7" id="cpnDaftarSekarangContainer4">
+            <div class="cpndaftar-sekarang7"  [routerLink]="['/','daftarbooking']">
               <b class="daftar-sekarang3">Daftar sekarang</b>
             </div>
           </div>
@@ -148,7 +149,8 @@
             alt=""
             src=".././assets/images/peta.PNG"
             id="mapsImage"
-          /><img class="logo-icon4" alt="" src="../../assets/images/logo bulat.png"/><b class="bandung-regency-tour6"
+          /><img class="logo-icon4" alt="" src="../../assets/images/logo bulat.png"/>
+          <b class="bandung-regency-tour6"
             >Bandung Regency Tour adalah penyedia layanan info wisata dan paket
             wisata di bandung. Kami mempunyai pengalaman dalam meyediakan
             layanan perjalanan paket wisata yang menyenangkan.</b
@@ -160,6 +162,13 @@
           ><b class="whatsapp2">Whatsapp :</b><b class="b4">081234569874</b
           ><b class="telephone2">Telephone :</b><b class="b5">0223654185</b>
         </div>
+        <div class="cpncopyright2">
+          <div class="bck-cr2"></div>
+          <b class="copyright-bandung-regency2"
+            >2023 Copyright Bandung Regency Tour</b
+          ><b class="developed-with-kelompok2">Developed with kelompok 6</b
+          ><img class="vector-icon2" alt="" />
+        </div>
         
         <div class="judul4">
           <b class="paket-wisata-bandung-container1"
@@ -168,11 +177,16 @@
           >
          
           <div class="line-1-tp17"></div>
-          <a class="home5" [routerLink]="['/','home']" >Home</a
+          <p class="home5" [routerLink]="['/','home']" >Home</p
           ><b class="paket-wisata6"><span>/ </span><span class="paket-wisata7">Paket Wisata</span></b
           >
         </div>
       </div>
     </div>
+
+
+   
+
+    
   </body>
 </html>

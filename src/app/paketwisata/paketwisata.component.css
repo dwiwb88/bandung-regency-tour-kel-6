@@ -357,7 +357,7 @@ body {
     object-fit: cover;
   }
   .layer-background1 {
-    background-color:NONE;
+    background-color:var(--d-blue-50);
   }
   .cpnbackground1 {
     position: absolute;
@@ -515,7 +515,7 @@ body {
     position: absolute;
     height: 2.36%;
     width: 14.76%;
-    top: 115%;
+    top: 100%;
     left: 23.35%;
     display: inline-block;
     cursor: pointer;

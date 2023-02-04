@@ -1,0 +1,493 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .background-icon7,
+  .layer-background5 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .background-icon7 {
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .layer-background5 {
+    background-color: var(--d-blue-80);
+  }
+  .cpnbackground5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 482px;
+  }
+  .logo-icon12,
+  .maps-icon6 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .maps-icon6 {
+    height: 44.55%;
+    width: 29.69%;
+    top: 23.52%;
+    right: 3.91%;
+    bottom: 31.93%;
+    left: 66.41%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .logo-icon12 {
+    height: 27.26%;
+    width: 13.67%;
+    top: 13.08%;
+    right: 77.5%;
+    bottom: 59.66%;
+    left: 8.83%;
+  }
+  .bandung-regency-tour12 {
+    position: absolute;
+    height: 28.82%;
+    width: 23.44%;
+    top: 47.35%;
+    left: 3.91%;
+    display: inline-block;
+  }
+  .alamat10,
+  .hubungi-kami12 {
+    position: absolute;
+    top: 13.08%;
+    left: 42.27%;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .alamat10 {
+    top: 22.59%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .taman-kopo-indah6 {
+    position: absolute;
+    height: 10.9%;
+    width: 29.69%;
+    top: 29.44%;
+    left: 35.16%;
+    display: inline-block;
+    text-align: left;
+  }
+  .whatsapp6 {
+    position: absolute;
+    top: 45.79%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b18,
+  .telephone6 {
+    position: absolute;
+    top: 52.65%;
+    left: 35.16%;
+  }
+  .telephone6 {
+    top: 59.81%;
+    left: 35.55%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b19 {
+    position: absolute;
+    top: 66.67%;
+    left: 35.16%;
+  }
+  .bck-cr6,
+  .cpnfooter6 {
+    position: absolute;
+    top: 1848px;
+    left: 0;
+    width: 1280px;
+    height: 642px;
+  }
+  .bck-cr6 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--d-blue-50);
+  }
+  .copyright-bandung-regency6 {
+    position: absolute;
+    top: 26.25%;
+    left: 43.91%;
+  }
+  .developed-with-kelompok6,
+  .vector-icon6 {
+    position: absolute;
+    top: 56.25%;
+    left: 46.41%;
+  }
+  .vector-icon6 {
+    height: 23.75%;
+    width: 1.48%;
+    top: 23.75%;
+    right: 56.72%;
+    bottom: 52.5%;
+    left: 41.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .cpncopyright6 {
+    position: absolute;
+    top: 2410px;
+    left: 0;
+    width: 1280px;
+    height: 80px;
+    font-size: var(--nunito-bold-12-size);
+  }
+  .line-3-stroke,
+  .line-4-stroke,
+  .line-4-stroke1 {
+    position: absolute;
+    top: 1px;
+    left: 329px;
+    width: 3px;
+    height: 454px;
+  }
+  .line-4-stroke,
+  .line-4-stroke1 {
+    left: 712px;
+  }
+  .line-4-stroke1 {
+    top: 1233px;
+    left: 654px;
+    width: 454px;
+    height: 3px;
+  }
+  .gbr-paket-wisata-18 {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    width: 235px;
+    height: 221px;
+    object-fit: cover;
+  }
+  .putri-gunung-hotel {
+    position: absolute;
+    top: 224px;
+    left: 0;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .daya-tarik-utama {
+    position: absolute;
+    top: 265px;
+    left: 0;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 95px;
+  }
+  .rute8 {
+    position: relative;
+  }
+  .cpnrute8 {
+    position: absolute;
+    top: 381px;
+    left: 91px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .hotel-1 {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    width: 268px;
+    height: 428px;
+  }
+  .gbr-paket-wisata-28 {
+    position: absolute;
+    top: 0;
+    left: 23px;
+    width: 235px;
+    height: 217.15px;
+    object-fit: cover;
+  }
+  .gh-universal-hotel {
+    position: absolute;
+    top: 220px;
+    left: 0;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .gh-universal-hotel1 {
+    position: absolute;
+    top: 261px;
+    left: 0;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 95px;
+  }
+  .cpnrute9 {
+    position: absolute;
+    top: 379px;
+    left: 90px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .hotel-2 {
+    position: absolute;
+    top: 5px;
+    left: 393px;
+    width: 271px;
+    height: 426px;
+  }
+  .gbr-paket-wisata-38 {
+    position: absolute;
+    top: 0;
+    left: 18px;
+    width: 235px;
+    height: 222px;
+    object-fit: cover;
+  }
+  .albis-hotel-ciwidey {
+    position: absolute;
+    top: 225px;
+    left: 0;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .terletak-strategis-di {
+    position: absolute;
+    top: 266px;
+    left: 11px;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 95px;
+  }
+  .cpnrute10 {
+    position: absolute;
+    top: 384px;
+    left: 100px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .gbr-paket-wisata-29,
+  .hotel-3 {
+    position: absolute;
+    top: 0;
+    left: 754px;
+    width: 278px;
+    height: 431px;
+  }
+  .gbr-paket-wisata-29 {
+    left: 8px;
+    width: 250px;
+    height: 239px;
+    object-fit: cover;
+  }
+  .bamboe-hotel {
+    position: absolute;
+    top: 239px;
+    left: 34px;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .hotel-yang-dekat {
+    position: absolute;
+    top: 283px;
+    left: 0;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 137px;
+  }
+  .cpnrute11 {
+    position: absolute;
+    top: 430px;
+    left: 91px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .hotel-4 {
+    position: absolute;
+    top: 499px;
+    left: 185px;
+    width: 265px;
+    height: 477px;
+  }
+  .gbr-paket-wisata-39 {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    width: 252px;
+    height: 239px;
+    object-fit: cover;
+  }
+  .sari-ater-hotel {
+    position: absolute;
+    top: 242px;
+    left: 36px;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .hotel-yang-terletak {
+    position: absolute;
+    top: 290px;
+    left: 0;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 133px;
+  }
+  .cpnrute12 {
+    position: absolute;
+    top: 433px;
+    left: 91px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .hotel-5,
+  .kategori4 {
+    position: absolute;
+    top: 496px;
+    left: 579px;
+    width: 267px;
+    height: 480px;
+  }
+  .kategori4 {
+    top: 716px;
+    left: 125px;
+    width: 1032px;
+    height: 976px;
+    text-align: left;
+    color: var(--primary-black);
+  }
+  .line-1-tp1-stroke {
+    position: absolute;
+    top: 66px;
+    left: 0;
+    border-top: 3px solid var(--ffc700-yellow-100);
+    box-sizing: border-box;
+    width: 200px;
+    height: 3px;
+  }
+  .info-hotel8 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    font-size: var(--inrias-bold-40-size);
+    font-family: var(--inrias-bold-40);
+  }
+  .home13 {
+    position: absolute;
+    top: 82px;
+    left: 21px;
+    cursor: pointer;
+  }
+  .hotel1 {
+    color: var(--ffc700-yellow-100);
+  }
+  .hotel,
+  .judul11 {
+    position: absolute;
+    top: 82px;
+    left: 97px;
+  }
+  .judul11 {
+    top: 172px;
+    left: 542px;
+    width: 196px;
+    height: 115px;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .info-hotel7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 832px;
+    overflow-y: auto;
+  }
+  .logo-icon13 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+  }
+  .home14,
+  .info-hotel9 {
+    position: relative;
+    cursor: pointer;
+  }
+  .info-hotel9 {
+    color: var(--primary-white);
+  }
+  .cpntop-bar6,
+  .top-bar6 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .top-bar6 {
+    width: 662px;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    gap: var(--gap-md);
+  }
+  .cpntop-bar6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--d-blue-80);
+    width: 1280px;
+    padding: var(--padding-sm) var(--padding-xl);
+    box-sizing: border-box;
+    justify-content: center;
+    gap: var(--gap-lg);
+    color: var(--primary-black);
+  }
+  .info-hotel6 {
+    position: relative;
+    background-color: var(--primary-white);
+    width: 100%;
+    height: 1191px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--nunito-bold-20-size);
+    color: var(--primary-white);
+    font-family: var(--nunito-bold-30);
+  }
+  

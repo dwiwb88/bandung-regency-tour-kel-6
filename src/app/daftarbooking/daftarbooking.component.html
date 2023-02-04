@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./daftarbooking.component.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="daftar-paket-wisata-1" >
+      <div class="dpw-11">
+        <div class="daftar-sekarang10" [routerLink]="['/','rekapbooking']" >
+          <b class="daftar-sekarang11" >Daftar sekarang</b>
+        </div>
+        <div class="cpnbackground3">
+          <img
+            class="background-icon5"
+            alt=""
+            src="../../assets/images/bkgheader.png"
+          />
+          <div class="layer-background3"></div>
+        </div>
+        <div class="cpnfooter4">
+          <div class="layer-background3"></div>
+          <img
+            class="maps-icon4"
+            alt=""
+            src="../../assets/images/peta.PNG"
+            id="mapsImage"
+          /><img class="logo-icon8" alt="" src="../../assets/images/logo bulat.png"/><b class="bandung-regency-tour9"
+            >Bandung Regency Tour adalah penyedia layanan paket wisata dan sewa
+            mobil dengan driver di bandung. Kami mempunyai pengalaman dalam
+            meyediakan layanan perjalanan paket wisata yang menyenangkan.</b
+          ><b class="hubungi-kami10">Hubungi Kami</b
+          ><b class="alamat6">Alamat :</b
+          ><b class="taman-kopo-indah4"
+            >Taman Kopo Indah 1, Jl. Raya Kopo,Mekar Rahayu, Margaasih,
+            Margaasih, Bandung, Jawa Barat</b
+          ><b class="whatsapp4">Whatsapp :</b><b class="b11">081234569874</b
+          ><b class="telephone4">Telephone :</b><b class="b12">0223654185</b>
+        </div>
+        <div class="cpncopyright4">
+          <div class="bck-cr4"></div>
+          <b class="copyright-bandung-regency4"
+            >2023 Copyright Bandung Regency Tour</b
+          ><b class="developed-with-kelompok4">Developed with kelompok 6</b
+          ><img class="vector-icon4" alt="" />
+        </div>
+        <div class="nama-lengkap1">
+          <b class="nama-lengkap2">Nama Lengkap</b>
+          <!-- <div class="nama-lengkap-item"> -->
+            <input class="nli" type="text" name="Nomor telephone">
+          <!-- </div> -->
+          <b class="nama1">Nama</b>
+        </div>
+
+        <div class="no-telphone3">
+          <b class="no-telphone4">No Telphone</b>
+          <div class="no-telphone-item"></div>
+          <b class="no-telphone5">No. Telphone</b>
+          <input class="notlp" type="text" name="Nomor telephone">
+          
+        </div>
+
+        <div class="alamat7">
+          <b class="alamat-lengkap1">Alamat Lengkap</b>
+          <div class="alamat-item"></div>
+          <b class="alamat8">Alamat</b>
+          <input class="almtlkp" type="text" name="Alamat Lengkap">
+
+        </div>
+        <div class="list-tk1">
+          <form >
+            <select name="jenis kelamin" class="formtglbrkt" >
+              <option value="-" selected>-</option>
+              <option value="laki-laki">6-7 Mei</option>
+              <option value="laki-laki">13-14 Mei</option>
+              <option value="laki-laki">20-21 Mei</option>
+              <option value="laki-laki">3-4 Mei</option>
+      
+            </select>
+          </form>
+          <b class="tanggal-keberangkatan1"
+            >Tanggal Keberangkatan</b
+          >
+        </div>
+        <div class="list-jk1">
+          <b class="jenis-kelamin1">Jenis Kelamin</b>
+          
+          <!-- <div class="list-jk-child"></div> -->
+          <form >
+            <select name="jenis kelamin" class="formjk" >
+              <option value="-" selected>-</option>
+              <option value="laki-laki">laki-laki</option>
+              <option value="laki-laki">perempuan</option>
+            </select>
+          </form>
+            <!-- <b class="b14">-</b> -->
+        </div>
+        
+        <div class="list-pengunjung2">
+      
+            <form >
+              <select name="Jumlah Paket" class="formjpkt" >
+                <option value="-" selected>-</option>
+                <option value="PW1 2D1N">PW1 (2D1N)</option>
+                <option value="PW2 2D1N">PW2 (2D1N)</option>
+                <option value="PW3 2D1N">PW3 (2D1N)</option>
+                <option value="PW4 2D1N">PW4 (2D1N)</option>
+                <option value="PW5 2D1N">PW5 (2D1N)</option>
+                
+              </select>
+            </form>
+            <b class="b15">-</b>
+          
+          <b class="jumlah-paket1">Jumlah Paket</b>
+        </div>
+        <div class="judul8">
+          <b class="daftar-booking1">Daftar Booking</b>
+          <div class="line-1-tp111"></div>
+          <b class="daftar2"
+            ><span>/ </span><span class="daftar3">Daftar</span></b
+          ><b class="home9" [routerLink]="['/','home']">Home</b>
+        </div>
+        <div class="paket-wisata-18">
+          <div class="judul9">
+            <b class="paket-wisata-2-container"
+              ><p class="paket-wisata-24">Paket Wisata 2 (2D 1N)</p>
+              <p class="rp-100000010">Rp. 1.000.000</p></b
+            >
+            <div class="line-1-tp112"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+  </body>
+</html>

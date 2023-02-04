@@ -1,0 +1,453 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .kategori-child1,
+  .kategori-child2 {
+    position: absolute;
+    top: -1.5px;
+    left: 327.5px;
+    border-right: 3px solid var(--b1f54-darkblue-100);
+    box-sizing: border-box;
+    width: 3px;
+    height: 457px;
+  }
+  .kategori-child2 {
+    left: 710.5px;
+  }
+  .gbr-paket-wisata-13 {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    width: 235px;
+    height: 202px;
+    object-fit: cover;
+  }
+  .selain-menyaksikan-keindahan1 {
+    position: absolute;
+    top: 265px;
+    left: 0;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 95px;
+  }
+  .rute3 {
+    position: relative;
+  }
+  .cpnrute3 {
+    position: absolute;
+    top: 381px;
+    left: 91px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .tempat-wisata-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 265px;
+    height: 428px;
+  }
+  .cpnrute4 {
+    position: absolute;
+    top: 383px;
+    left: 90px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .tempar-wisata-21 {
+    position: absolute;
+    top: 0;
+    left: 393px;
+    width: 265px;
+    height: 430px;
+  }
+  .rancaupas2 {
+    position: absolute;
+    top: 221px;
+    left: 55px;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .cpnrute5 {
+    position: absolute;
+    top: 383px;
+    left: 89px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .kategori-child3,
+  .tempat-wisata-31 {
+    position: absolute;
+    top: 0;
+    left: 765px;
+    width: 265px;
+    height: 430px;
+  }
+  .kategori-child3 {
+    top: 514.5px;
+    left: 524.5px;
+    border-right: 3px solid var(--b1f54-darkblue-100);
+    box-sizing: border-box;
+    width: 3px;
+    height: 457px;
+  }
+  .dusun-bambu {
+    position: absolute;
+    top: 221px;
+    left: 37px;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .dusun-bambu-menyajikan {
+    position: absolute;
+    top: 265px;
+    left: 0;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 137px;
+  }
+  .cpnrute6 {
+    position: absolute;
+    top: 412px;
+    left: 91px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .tempat-wisata-4 {
+    position: absolute;
+    top: 516px;
+    left: 207px;
+    width: 265px;
+    height: 459px;
+  }
+  .gbr-paket-wisata-34 {
+    position: absolute;
+    top: 0;
+    left: 27px;
+    width: 235px;
+    height: 202px;
+    object-fit: cover;
+  }
+  .the-great-asia {
+    position: absolute;
+    top: 221px;
+    left: 0;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .bagi-kamu-yang {
+    position: absolute;
+    top: 269px;
+    left: 12px;
+    display: inline-block;
+    text-align: center;
+    width: 265px;
+    height: 133px;
+  }
+  .cpnrute7 {
+    position: absolute;
+    top: 412px;
+    left: 103px;
+    border-radius: var(--br-md);
+    border: 3px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .kategori2,
+  .tempat-wisata-5 {
+    position: absolute;
+    top: 516px;
+    left: 567px;
+    width: 302px;
+    height: 459px;
+  }
+  .kategori2 {
+    top: 680px;
+    left: 125px;
+    width: 1030px;
+    height: 975px;
+    text-align: left;
+    color: var(--primary-black);
+  }
+  .background-icon2,
+  .layer-background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .background-icon2 {
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .layer-background {
+    background-color: var(--d-blue-80); 
+   } 
+  .cpnbackground {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 482px;
+  }
+  .logo-icon2,
+  .maps-icon1 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .maps-icon1 {
+    height: 44.55%;
+    width: 29.69%;
+    top: 23.52%;
+    right: 3.91%;
+    bottom: 31.93%;
+    left: 66.41%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .logo-icon2 {
+    height: 27.26%;
+    width: 13.67%;
+    top: 13.08%;
+    right: 77.5%;
+    bottom: 59.66%;
+    left: 8.83%;
+  }
+  .bandung-regency-tour5 {
+    position: absolute;
+    height: 28.82%;
+    width: 23.44%;
+    top: 47.35%;
+    left: 3.91%;
+    display: inline-block;
+  }
+  .alamat1,
+  .hubungi-kami7 {
+    position: absolute;
+    top: 13.08%;
+    left: 42.27%;
+    font-size: var(--nunito-bold-30-size);
+  }
+  .alamat1 {
+    top: 22.59%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .taman-kopo-indah1 {
+    position: absolute;
+    height: 10.9%;
+    width: 29.69%;
+    top: 29.44%;
+    left: 35.16%;
+    display: inline-block;
+    text-align: left;
+  }
+  .whatsapp1 {
+    position: absolute;
+    top: 45.79%;
+    left: 35.23%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b2 {
+    top: 52.65%;
+    left: 35.16%;
+  }
+  .b2,
+  .b3,
+  .telephone1 {
+    position: absolute;
+  }
+  .telephone1 {
+    top: 59.81%;
+    left: 35.55%;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .b3 {
+    top: 66.67%;
+    left: 35.16%;
+  }
+  .bck-cr1,
+  .cpnfooter1 {
+    position: absolute;
+    top: 1848px;
+    left: 0;
+    width: 1280px;
+    height: 642px;
+  }
+  .bck-cr1 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--d-blue-50);
+  }
+  .copyright-bandung-regency1 {
+    position: absolute;
+    top: 26.25%;
+    left: 43.91%;
+  }
+  .developed-with-kelompok1,
+  .vector-icon1 {
+    position: absolute;
+    top: 56.25%;
+    left: 46.41%;
+  }
+  .vector-icon1 {
+    height: 23.75%;
+    width: 1.48%;
+    top: 23.75%;
+    right: 56.72%;
+    bottom: 52.5%;
+    left: 41.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .cpncopyright1 {
+    position: absolute;
+    top: 2410px;
+    left: 0;
+    width: 1280px;
+    height: 80px;
+    font-size: var(--nunito-bold-12-size);
+  }
+  .line-1-tp16 {
+    position: absolute;
+    top: 105.5px;
+    left: -1.5px;
+    border-top: 3px solid var(--ffc700-yellow-100);
+    box-sizing: border-box;
+    width: 299px;
+    height: 3px;
+  }
+  .info1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .tempat-wisata1 {
+    margin: 0;
+  }
+  .home3,
+  .info-wisata4 {
+    position: absolute;
+    left: 17px;
+  }
+  .info-wisata4 {
+    top: 0;
+    font-size: var(--inrias-bold-40-size);
+    font-family: var(--inrias-bold-40);
+  }
+  .home3 {
+    top: 120px;
+    cursor: pointer;
+  }
+  .tempat-wisata3 {
+    color: var(--ffc700-yellow-100);
+  }
+  .judul3,
+  .tempat-wisata2 {
+    position: absolute;
+    top: 120px;
+    left: 93px;
+  }
+  .judul3 {
+    top: 134px;
+    left: 492px;
+    width: 296px;
+    height: 153px;
+    font-size: var(--nunito-bold-24-size);
+  }
+  .info-wisata3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 832px;
+    overflow-y: auto;
+  }
+  .logo-icon3 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+  }
+  .home4,
+  .info-wisata5 {
+    position: relative;
+    cursor: pointer;
+  }
+  .info-wisata5 {
+    color: var(--primary-white);
+  }
+  .cpntop-bar1,
+  .top-bar1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .top-bar1 {
+    width: 662px;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    gap: var(--gap-md);
+  }
+  .cpntop-bar1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--d-blue-80);
+    width: 1280px;
+    padding: var(--padding-sm) var(--padding-xl);
+    box-sizing: border-box;
+    justify-content: center;
+    gap: var(--gap-lg);
+    color: var(--primary-black);
+  }
+  .info-wisata2 {
+    position: relative;
+    background-color: var(--primary-white);
+    width: 100%;
+    height: 901px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--nunito-bold-20-size);
+    color: var(--primary-white);
+    font-family: var(--nunito-bold-30);
+  }
+  
