@@ -1,6 +1,8 @@
 body {
     margin: 0;
     line-height: normal;
+    width: 100%;
+    height: 100%;
   }
   .kategori-child1,
   .kategori-child2 {
@@ -192,7 +194,7 @@ body {
   .kategori2 {
     top: 680px;
     left: 125px;
-    width: 1030px;
+    width: 100%;
     height: 975px;
     text-align: left;
     color: var(--primary-black);
@@ -220,7 +222,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 482px;
   }
   .logo-icon2,
@@ -306,7 +308,7 @@ body {
     position: absolute;
     top: 1848px;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 642px;
   }
   .bck-cr1 {
@@ -343,7 +345,7 @@ body {
     position: absolute;
     top: 2410px;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 80px;
     font-size: var(--nunito-bold-12-size);
   }
@@ -397,9 +399,10 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 832px;
     overflow-y: auto;
+    overflow-x: hidden;
   }
   .logo-icon3 {
     position: relative;
@@ -415,36 +418,14 @@ body {
   .info-wisata5 {
     color: var(--primary-white);
   }
-  .cpntop-bar1,
-  .top-bar1 {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  .top-bar1 {
-    width: 662px;
-    flex-shrink: 0;
-    justify-content: flex-end;
-    gap: var(--gap-md);
-  }
-  .cpntop-bar1 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: var(--d-blue-80);
-    width: 1280px;
-    padding: var(--padding-sm) var(--padding-xl);
-    box-sizing: border-box;
-    justify-content: center;
-    gap: var(--gap-lg);
-    color: var(--primary-black);
-  }
+ 
+
   .info-wisata2 {
     position: relative;
     background-color: var(--primary-white);
     width: 100%;
     height: 901px;
-    overflow: hidden;
+    /* overflow: auto; */
     text-align: center;
     font-size: var(--nunito-bold-20-size);
     color: var(--primary-white);

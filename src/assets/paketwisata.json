@@ -1,0 +1,44 @@
+
+   [
+      {
+        "paket_id": 1,
+        "photo": "1.jpg",
+        "nama_paket": "Paket Wisata 1 (2D 1N)",
+        "harga": 1000000,
+        "paket_wisata": "Tangkuban Perahu, Orchid Forest, The Great Asia Afrika",
+        "akomodasi": "Sudah Termasuk (Mobil, Driver dan BBM)"
+      },
+      {
+        "paket_id": 2,
+        "photo": "2.jpg",
+        "nama_paket": "Paket Wisata 2 (2D 1N)",
+        "harga": 1000000,
+        "paket_wisata": "Cg. Cinulang, Cicalengka Dreamland, Bukit Teletubis Cicalengka",
+        "akomodasi": "Sudah Termasuk (Mobil, Driver dan BBM)"
+      },
+      {
+        "paket_id": 3,
+        "photo": "3.jpg",
+        "nama_paket": "Paket Wisata 3 (2D 1N)",
+        "harga": 1000000,
+        "paket_wisata": "Glamping Lakeside Rancabali, Rancaupas, Kawah Putih",
+        "akomodasi": "Sudah Termasuk (Mobil, Driver dan BBM)"
+      },
+      {
+        "paket_id": 4,
+        "photo": "4.jpg",
+        "nama_paket": "Paket Wisata 4 (2D 1N)",
+        "harga": 1000000,
+        "paket_wisata": "Floating Market, Lembang Park & Zoo, Dusun Bambu",
+        "akomodasi": "Sudah Termasuk (Mobil, Driver dan BBM)"
+      },
+      {
+        "paket_id": 5,
+        "photo": "5.jpg",
+        "nama_paket": "Paket Wisata 5 (2D 1N)",
+        "harga": 1000000,
+        "paket_wisata": "Hino Higland, Situ Cileunca, Taman Langit",
+        "akomodasi": "Sudah Termasuk (Mobil, Driver dan BBM)"
+      }
+    ]
+  

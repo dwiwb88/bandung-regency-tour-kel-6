@@ -1,2 +1,15 @@
 <app-navbar></app-navbar>
 <router-outlet></router-outlet>
+
+<div *ngFor="let data of paketwisatas">
+    <span style="color:brown;">{{data.nama_paket}}</span>
+    <br>
+    <span >{{data.harga}}</span>
+    <br>
+    <span>{{data.paket_wisata}}</span>
+    <br>
+    <span>{{data.akomodasi}}</span>
+    <br>
+</div>
+
+

@@ -2,6 +2,7 @@ body {
     margin: 0;
     line-height: normal;
     height: 100%;
+    width: 100%;
   }
   .kategori-child4,
   .kategori-child5,
@@ -337,7 +338,7 @@ body {
   .kategori3 {
     top: 575px;
     left: 126px;
-    width: 1054px;
+    width: 100%;
     height: 1143px;
     color: var(--primary-black);
   }
@@ -505,7 +506,7 @@ body {
     position: absolute;
     height: 1.92%;
     width: 100.66%;
-    top: 110%;
+    top: 100%;
     right: -0.33%;
     bottom: 28.53%;
     left: -0.33%;
@@ -546,6 +547,7 @@ body {
     width: 100%;
     height: 832px;
     overflow-y: auto;
+    overflow-x: hidden;
   }
   .logo-icon5 {
     position: relative;
@@ -590,7 +592,7 @@ body {
     background-color: var(--primary-white);
     width: 100%;
     height: 832px;
-    overflow: hidden;
+    /* overflow: hidden; */
     text-align: center;
     font-size: var(--nunito-bold-20-size);
     color: var(--primary-white);

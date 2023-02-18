@@ -25,7 +25,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 482px;
   }
   .logo-icon14,
@@ -109,7 +109,7 @@ body {
     position: absolute;
     top: 1848px;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 642px;
   }
   .bck-cr7 {
@@ -146,7 +146,7 @@ body {
     position: absolute;
     top: 2410px;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 80px;
     font-size: var(--nunito-bold-12-size);
   }
@@ -312,9 +312,10 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 1280px;
+    width: 100%;
     height: 832px;
     overflow-y: auto;
+    overflow-x: hidden;
   }
   .logo-icon15 {
     width: 80px;
@@ -350,7 +351,7 @@ body {
     top: 0;
     left: 0;
     background-color: var(--d-blue-80);
-    width: 1280px;
+    width: 100%;
     padding: var(--padding-sm) var(--padding-xl);
     box-sizing: border-box;
     justify-content: center;
