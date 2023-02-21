@@ -50,7 +50,7 @@ body {
     object-fit: cover;
   }
   .layer-background {
-    background-color: var(--d-blue-80);
+    /* background-color: var(--d-blue-80); */
   }
   .cpnbackground {
     position: absolute;
@@ -230,7 +230,7 @@ body {
     border-radius: var(--br-sm);
     border: 1px solid var(--primary-black);
     box-sizing: border-box;
-    width: 220px;
+    width: 600px;
     height: 46px;
   }
   .alamat3,
@@ -272,7 +272,7 @@ body {
     border-radius: var(--br-sm);
     border: 1px solid var(--primary-black);
     box-sizing: border-box;
-    width: 220px;
+    width: 600px;
     height: 46px;
   }
   .tanggal-keberangkatan {
@@ -303,7 +303,7 @@ body {
     border-radius: var(--br-sm);
     border: 1px solid var(--primary-black);
     box-sizing: border-box;
-    width: 220px;
+    width: 600px;
   }
   .paket {
     position: absolute;
