@@ -95,6 +95,9 @@ body {
   }
   .nikmati-liburan-bersama-container {
     position: relative;
+    text-decoration: none;
+    width: auto;
+    color: black;
   }
   .nikmati-liburan-bersama-berkua-wrapper {
     position: absolute;

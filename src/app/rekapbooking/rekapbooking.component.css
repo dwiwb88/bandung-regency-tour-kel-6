@@ -49,8 +49,19 @@ body {
     max-height: 100%;
     object-fit: cover;
   }
-  /* .layer-background {
+  .layer-background {
     background-color: var(--d-blue-80);
+  }
+  /* .borderwa{
+    position: absolute;
+    border-radius: var(--br-md);
+    border: 20px solid var(--b1f54-darkblue-100);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-md);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
   } */
   .cpnbackground {
     position: absolute;
