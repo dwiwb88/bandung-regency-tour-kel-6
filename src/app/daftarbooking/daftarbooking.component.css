@@ -39,9 +39,9 @@ body {
     max-height: 100%;
     object-fit: cover;
   }
-  /* .layer-background3 { 
+  .layer-background3 { 
     background-color: var(--d-blue-80);
-   }  */
+   } 
 
   .cpnbackground3 {
     position: absolute;
